@@ -1,6 +1,8 @@
 LemonLDAPSSOValve
 ======================
 
+A LemonLDAP sso valve for exoplatform.
+
 Build
 -----
 
